@@ -1,3 +1,4 @@
+![logo](https://github.com/AtharHussain-Ai/AtharHussain-Ai/blob/main/gitbackground.jpg)
 <h1 align="center" style="font-family: 'Arial', sans-serif; color: #333;">Hi 👋, I'm <strong>Mohammad Athar Hussain</strong></h1>
 <h3 align="center" style="font-family: 'Arial', sans-serif; color: #555;">A Passionate AI/ML Developer from India</h3>
 
