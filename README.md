@@ -6,8 +6,6 @@
 - ⭐ Don't forget to give a star ⭐
 -->
 
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
 
 ```js
 "use creativity";
@@ -63,8 +61,6 @@ MacOS                    16 hrs 9 mins       ███████████�
   
 </div>
 
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -79,8 +75,6 @@ MacOS                    16 hrs 9 mins       ███████████�
 </a>
 </p>
 
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
 
 <h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
@@ -91,10 +85,8 @@ MacOS                    16 hrs 9 mins       ███████████�
 </div>
 
 <!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
 <div align="center">
     Made by <a href="https://github.com/AtharHussain-Ai?tab=repositories" target="_blank">Athar Hussain</a>
 </div>
 
 <!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
