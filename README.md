@@ -1,4 +1,4 @@
-![logo](https://github.com/AtharHussain-Ai/AtharHussain-Ai/blob/main/latest.jpg)
+![logo](https://github.com/AtharHussain-Ai/AtharHussain-Ai/blob/main/git.jpg)
 <!--
 - !! Thank you for keeping this sign !!
 - Original Creation by Deri Kurniawan (Deri-Kurniawan)
