@@ -24,28 +24,28 @@ D:\Athar_Hussain > md Athar.py
 Hi, my name is Athar Hussain , I'm a AI/ML Developer from India.
 ```
 
-<div align="center">
 
 
 
 <!--START_SECTION:waka-->
-``` js
+<!--START_SECTION:waka-->
+```js
 // 💻 My Projects
 
 const projects = [
   {
     name: "Fraud-Detection",
-    description: "An Online Fraud Detection System utilizing a Decision Tree Classifier to identify fraudulent activities in online transactions.",
+    description: "Fraud detection using Decision Tree Classifier.",
     url: "https://github.com/AtharHussain-Ai/Fraud-Detection"
   },
   {
     name: "Medical Recommendation System",
-    description: "A Medical Recommendation System powered by a Support Vector Classification (SVC) model, aimed at assisting healthcare professionals in making informed decisions by recommending potential treatments or diagnoses based on patient data.",
+    description: "Medical recommendations via SVC model.",
     url: "https://github.com/AtharHussain-Ai/Medical-Recommendation-System"
   },
   {
     name: "OpenCV Hand Detector",
-    description: "A Fitness-Diet-Recipes Recommendation System utilizing the K-Nearest Neighbors (KNN) algorithm to provide personalized diet and fitness recipe recommendations based on individual preferences, fitness goals, and dietary requirements.",
+    description: "Hand detection with OpenCV and KNN algorithm.",
     url: "https://github.com/AtharHussain-Ai/Fitness-Diet-Recipes-Recommendation"
   },
 ];
@@ -60,9 +60,8 @@ projects.forEach(project => {
 
 // Footer
 console.log("// ⭐️ Check out my GitHub for more projects!");
+
 ```
-
-
 
 📊 **This Week I Spent My Time On** 
 
