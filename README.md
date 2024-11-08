@@ -29,14 +29,39 @@ Hi, my name is Athar Hussain , I'm a AI/ML Developer from India.
 
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+``` js
+// 💻 My Projects
 
-```text
-🌞 Morning                10 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-🌆 Daytime                15 commits        ███████████░░░░░░░░░░░░░░   43.37 % 
-🌃 Evening                20 commits        █████████░░░░░░░░░░░░░░░░   34.16 % 
-🌙 Night                  30 commits         ███░░░░░░░░░░░░░░░░░░░░░░   34.86 % 
+const projects = [
+  {
+    name: "Fraud-Detection",
+    description: "An Online Fraud Detection System utilizing a Decision Tree Classifier to identify fraudulent activities in online transactions.",
+    url: "https://github.com/AtharHussain-Ai/Fraud-Detection"
+  },
+  {
+    name: "Medical Recommendation System",
+    description: "A Medical Recommendation System powered by a Support Vector Classification (SVC) model, aimed at assisting healthcare professionals in making informed decisions by recommending potential treatments or diagnoses based on patient data.",
+    url: "https://github.com/AtharHussain-Ai/Medical-Recommendation-System"
+  },
+  {
+    name: "OpenCV Hand Detector",
+    description: "A Fitness-Diet-Recipes Recommendation System utilizing the K-Nearest Neighbors (KNN) algorithm to provide personalized diet and fitness recipe recommendations based on individual preferences, fitness goals, and dietary requirements.",
+    url: "https://github.com/AtharHussain-Ai/Fitness-Diet-Recipes-Recommendation"
+  },
+];
+
+// Display projects
+projects.forEach(project => {
+  console.log(`// ${project.name}`);
+  console.log(`// ${project.description}`);
+  console.log(project.url);
+  console.log('');
+});
+
+// Footer
+console.log("// ⭐️ Check out my GitHub for more projects!");
 ```
+
 
 
 📊 **This Week I Spent My Time On** 
