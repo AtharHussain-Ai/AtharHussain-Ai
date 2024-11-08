@@ -26,9 +26,6 @@ Hi, my name is Athar Hussain , I'm a AI/ML Developer from India.
 
 <div align="center">
 
-[![WakaTime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg?style=flat-square)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491)
-![Followers](https://img.shields.io/github/followers/AtharHussain-Ai?style=flat-square)
-![Stars](https://img.shields.io/github/stars/AtharHussain-Ai?style=flat-square)
 
 
 <!--START_SECTION:waka-->
