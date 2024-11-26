@@ -13,7 +13,7 @@ import { Person } from 'india';
 
 new Person({
     name   : 'Athar Hussain',
-    title  : 'AI/ML Developer',
+    title  : 'AI-Developer',
     email  : 'athar.ai.developer@gmail.com',
     website: 'coming-soon',
 }).introduce();
@@ -21,7 +21,7 @@ new Person({
 
 ```cmd
 D:\Athar_Hussain > md Athar.py
-Hi, my name is Athar Hussain , I'm a AI/ML Developer from India.
+Hi, my name is Athar Hussain , I'm a AI-Developer from India.
 ```
 
 
