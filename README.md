@@ -116,6 +116,8 @@ MacOS                    16 hrs 9 mins       ███████████�
   
 </div>
 
+## 🚀 My LeetCode Progress
+![LeetCode Progress](https://github.com/AtharHussain-Ai/AtharHussain-Ai/blob/main/leetcode-progress.md)
 <!--x axis divider-->
 <div align="center">
     Made by <a href="https://github.com/AtharHussain-Ai?tab=repositories" target="_blank">Athar Hussain</a>
