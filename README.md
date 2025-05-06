@@ -15,7 +15,7 @@ new Person({
     name   : 'Athar Hussain',
     title  : 'AI-Developer',
     email  : 'athar.ai.developer@gmail.com',
-    website: 'coming-soon',
+    website: 'https://atharhussain-ai.github.io/Athar_Hussain/',
 }).introduce();
 ```
 
