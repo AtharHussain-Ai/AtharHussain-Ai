@@ -111,7 +111,8 @@ MacOS                    16 hrs 9 mins       ███████████�
 <h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
 
-[![image]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-athar-hussain-7a589a327/](https://www.linkedin.com/in/athar-hussain006/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/athar-hussain006/)
+
 
   
 </div>
