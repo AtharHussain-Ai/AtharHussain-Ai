@@ -1,4 +1,4 @@
-![logo](https://github.com/AtharHussain-Ai/AtharHussain-Ai/blob/main/Futuristic%20role%20identity%20LinkedIn%20cover.png)
+![logo](https://github.com/AtharHussain-Ai/AtharHussain-Ai/blob/main/robot.png)
 <!--
 - !! Thank you for keeping this sign !!
 - Original Creation by Deri Kurniawan (Deri-Kurniawan)
